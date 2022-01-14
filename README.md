@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TylorTheAnvil
+- 👋 Hi, I’m @TylorTheAnvil, otherwise known as Anvil - Creator of Worlds
 - 👀 I’m interested in programming obviously, psychology, simulations, and philosophy. 
 - 🌱 I’m currently learning Game Design and GameMaker Studio 2.
 - 💞️ I’m looking to collaborate on 'Project Nexus', an AutoBattler RTS Game I'm working on! 
